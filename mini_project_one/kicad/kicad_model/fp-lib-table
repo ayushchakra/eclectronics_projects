@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "160-1579-1-ND")(type "KiCad")(uri "/home/ayush/Documents/eclectronics_projects/mini_project_one/kicad/kicad_parts/160-1579-1-ND/160-1579-1-ND.pretty")(options "")(descr ""))
+  (lib (name "48037-0001")(type "KiCad")(uri "/home/ayush/Documents/eclectronics_projects/mini_project_one/kicad/kicad_parts/48037-0001/48037-0001.pretty")(options "")(descr ""))
+  (lib (name "MCP1702T-3302E-CBCT-ND")(type "KiCad")(uri "/home/ayush/Documents/eclectronics_projects/mini_project_one/kicad/kicad_parts/MCP1702T-3302E-CBCT-ND/MCP1702T-3302E-CBCT-ND.pretty")(options "")(descr ""))
+  (lib (name "MCP6022T-I-STCT-ND")(type "KiCad")(uri "/home/ayush/Documents/eclectronics_projects/mini_project_one/kicad/kicad_parts/MCP6022T-I-STCT-ND/MCP6022T-I-STCT-ND.pretty")(options "")(descr ""))
+)
