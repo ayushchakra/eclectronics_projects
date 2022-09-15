@@ -3,3 +3,4 @@
 *.net
 *.raw
 *.plt
+*cache*
