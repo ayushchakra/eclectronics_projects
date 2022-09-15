@@ -1,1 +1,5 @@
 *backups*
+*.log
+*.net
+*.raw
+*.plt
