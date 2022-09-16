@@ -10,7 +10,7 @@ import os
 # To analyze worst case analysis data, uncomment this file. Additionally,
 # when running wca, uncomment lines 61 and 62 to display minimum and maximum
 # periods.
-# FILE_NAME = f'{os.getcwd()}/ltspice/ltspice_data/wca_data.txt'
+FILE_NAME = f'{os.getcwd()}/ltspice/ltspice_data/wca_data.txt'
 
 
 def find_period(times, v_values, current_resistor):
